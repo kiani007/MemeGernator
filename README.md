@@ -1,4 +1,4 @@
-# MEME GENRATOR             
+# MEME GENERATOR             
 Project Meme Gernator which is very helpfull for beginers to learn React 
 
 # what concept it includes 
